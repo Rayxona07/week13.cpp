@@ -265,4 +265,3 @@ void mergeSorted(constint*a,int n,const int* b,int* out) {
             cout<<(same? 1:0);
             return 0;
             }
-        //Problem 13
